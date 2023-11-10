@@ -1,4 +1,4 @@
-<img align="right" alt="banner" width="400" src="blob:https://web.whatsapp.com/47b2b499-19b4-4579-8738-7f8803aa1bde">
+<img align="right" alt="banner" width="400" src="\Pictures\banner 0.2.jpg">
 <h1 align="center">Hi 👋, I'm Sulthan Rafi Aufaa Budiman</h1>
 <h3 align="center">Someone who wants to become a front end developer</h3>
 
