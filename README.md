@@ -1,6 +1,4 @@
 <img align="right" alt="banner" width="400" src="https://github.com/sulthanbudiman/sulthanbudiman/blob/main/Sulthan%20Rafi%20Banner.jpg">
-<h1 align="center">Hi 👋, I'm Sulthan Rafi Aufaa Budiman</h1>
-<h3 align="center">Someone who wants to become a front end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthanbudiman&label=Profile%20views&color=0e75b6&style=flat" alt="sulthanbudiman" /> </p>
 
