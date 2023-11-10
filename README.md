@@ -1,4 +1,4 @@
-<img align="right" alt="banner" width="400" img="https://www.canva.com/design/DAFzxghNZ9M/OmvnrDpY1Bpdignvi3l5OA/view?utm_content=DAFzxghNZ9M&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img align="right" alt="banner" width="400" img="https://github.com/sulthanbudiman/sulthanbudiman/blob/main/Sulthan%20Rafi%20Banner.jpg">
 <h1 align="center">Hi 👋, I'm Sulthan Rafi Aufaa Budiman</h1>
 <h3 align="center">Someone who wants to become a front end developer</h3>
 
