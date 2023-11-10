@@ -1,4 +1,4 @@
-<img href="/pictures/Sulthan Rafi Banner">
+
 <h1 align="center">Hi 👋, I'm Sulthan Rafi Aufaa Budiman</h1>
 <h3 align="center">Someone who wants to become a front end developer</h3>
 
