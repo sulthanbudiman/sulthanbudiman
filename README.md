@@ -4,7 +4,7 @@
 
 - 🔭 I currently study at **SMK Telkom Malang**
 
-- 🌱 I’m currently learning **JavaScript,Sass,Tailwind, Node.js, and PHP**
+- 🌱 I’m currently learning **JavaScript, Sass, Tailwind, Node.js, and PHP**
 
 - 💬 Ask me about **Java and HTML**
 
