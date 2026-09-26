@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulthanbudiman&label=Profile%20views&color=0e75b6&style=flat" alt="sulthanbudiman" /> </p>
 
-- 🔭 I currently study at **SMK Telkom Malang**
+- 🔭 I currently study at **Institut Teknologi Sepuluh Nopember**
 
 - 🌱 I’m currently learning **JavaScript, Sass, Tailwind, Node.js, and PHP**
 
